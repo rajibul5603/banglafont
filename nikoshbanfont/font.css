@@ -1,0 +1,13 @@
+ 
+@font-face {
+  font-family: 'NikoshBAN';
+  src: url('NikoshBAN.eot');
+  src: url('NikoshBAN.eot?#iefix') format('embedded-opentype'),
+       url('NikoshBAN.svg#NikoshBAN') format('svg'),
+       url('NikoshBAN.ttf') format('truetype'),
+       url('NikoshBAN.woff') format('woff'),
+       url('NikoshBAN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
