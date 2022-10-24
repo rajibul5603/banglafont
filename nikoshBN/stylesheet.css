@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NikoshBAN';
+    src: url('NikoshBAN.woff2') format('woff2'),
+        url('NikoshBAN.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
